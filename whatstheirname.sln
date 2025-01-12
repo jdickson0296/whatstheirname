@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1BF870C8-607C-42BB-B341-0D7BDA43237A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieChatbot.Core", "src\MovieChatbot.Core\MovieChatbot.Core.csproj", "{6883213A-3E11-4A60-AF01-45AB47FC2016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieChatbot.Console", "src\MovieChatbot.Console\MovieChatbot.Console.csproj", "{4A6D2823-E479-4B0F-894F-98312C7AF527}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{1A1D5622-C06D-4B96-A240-5AF3BDCF9BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieChatbot.Tests", "tests\MovieChatbot.Tests\MovieChatbot.Tests.csproj", "{150B1D87-E621-4502-9A08-001311F81823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6883213A-3E11-4A60-AF01-45AB47FC2016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6883213A-3E11-4A60-AF01-45AB47FC2016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6883213A-3E11-4A60-AF01-45AB47FC2016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6883213A-3E11-4A60-AF01-45AB47FC2016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A6D2823-E479-4B0F-894F-98312C7AF527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6D2823-E479-4B0F-894F-98312C7AF527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6D2823-E479-4B0F-894F-98312C7AF527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6D2823-E479-4B0F-894F-98312C7AF527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150B1D87-E621-4502-9A08-001311F81823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150B1D87-E621-4502-9A08-001311F81823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150B1D87-E621-4502-9A08-001311F81823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150B1D87-E621-4502-9A08-001311F81823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6883213A-3E11-4A60-AF01-45AB47FC2016} = {1BF870C8-607C-42BB-B341-0D7BDA43237A}
+		{4A6D2823-E479-4B0F-894F-98312C7AF527} = {1BF870C8-607C-42BB-B341-0D7BDA43237A}
+		{150B1D87-E621-4502-9A08-001311F81823} = {1A1D5622-C06D-4B96-A240-5AF3BDCF9BBD}
+	EndGlobalSection
+EndGlobal

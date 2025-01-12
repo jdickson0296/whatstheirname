@@ -1,0 +1,12 @@
+/Users/jonathan/Repos/whatstheirname/src/MovieChatbot.Core/bin/Debug/net9.0/MovieChatbot.Core.deps.json
+/Users/jonathan/Repos/whatstheirname/src/Moviechatbot.Core/bin/Debug/net9.0/MovieChatbot.Core.dll
+/Users/jonathan/Repos/whatstheirname/src/Moviechatbot.Core/bin/Debug/net9.0/MovieChatbot.Core.pdb
+/Users/jonathan/Repos/whatstheirname/src/Moviechatbot.Core/obj/Debug/net9.0/MovieChatbot.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/Repos/whatstheirname/src/Moviechatbot.Core/obj/Debug/net9.0/MovieChatbot.Core.AssemblyInfoInputs.cache
+/Users/jonathan/Repos/whatstheirname/src/Moviechatbot.Core/obj/Debug/net9.0/MovieChatbot.Core.AssemblyInfo.cs
+/Users/jonathan/Repos/whatstheirname/src/Moviechatbot.Core/obj/Debug/net9.0/MovieChatbot.Core.csproj.CoreCompileInputs.cache
+/Users/jonathan/Repos/whatstheirname/src/Moviechatbot.Core/obj/Debug/net9.0/MovieChatbot.Core.sourcelink.json
+/Users/jonathan/Repos/whatstheirname/src/Moviechatbot.Core/obj/Debug/net9.0/MovieChatbot.Core.dll
+/Users/jonathan/Repos/whatstheirname/src/Moviechatbot.Core/obj/Debug/net9.0/refint/MovieChatbot.Core.dll
+/Users/jonathan/Repos/whatstheirname/src/Moviechatbot.Core/obj/Debug/net9.0/MovieChatbot.Core.pdb
+/Users/jonathan/Repos/whatstheirname/src/MovieChatbot.Core/obj/Debug/net9.0/ref/MovieChatbot.Core.dll
